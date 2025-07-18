@@ -33,7 +33,7 @@ I thrive in fast-paced environments where I can lead technical uplift, mentor pe
 ### ✨ [Interview Question Add](personal-interview-question-list.netlify.app)
 > A personal tool to collect, organize, and review frontend interview questions. Built with React and localStorage, this project supports question tagging, difficulty levels, and progress tracking.
 
-### 🌏 [Weather Now]([https://github.com/paraiii/weather-now](https://bzhang-personal.netlify.app/weather))
+### 🌏 [Weather Now](https://bzhang-personal.netlify.app/weather)
 > A responsive weather dashboard powered by OpenWeather API, built with React, MUI, and Context API.
 
 ---
