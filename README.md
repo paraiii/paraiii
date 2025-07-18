@@ -40,7 +40,7 @@ I thrive in fast-paced environments where I can lead technical uplift, mentor pe
 
 ## 📬 Personal Website
 
-[👋I'm here](bzhang-dev.netlify.app)
+[👋I'm here](https://bzhang-dev.netlify.app/)
 
 ---
 
